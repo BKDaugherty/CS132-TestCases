@@ -1,7 +1,7 @@
 class Main {
     public static void main( String [] args ) {
-	A a;
-	a = new B();
+	B b;
+	b = new A();
     }
 }
 
